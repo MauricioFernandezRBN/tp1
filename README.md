@@ -63,6 +63,13 @@ int main() {
 }
 
 ```
-- Correccion 1:
+- **_Correccion 1_**:
   El primer error a corregir es en el nombre de la funcion **f_alpha**, la cual invierte el numero ingresado por parametro.
+  Por lo que se procedio a cambiarle el nombre a **invertir_numero**. Ademas de esto se agrego un **print** que muestra por   pantalla el numero invertido (_Linea 11_).
+  ```
+   printf("El numero invertido es: %d\n",*p); 
+  ```
+
+-**_Correccion_**
+
  
