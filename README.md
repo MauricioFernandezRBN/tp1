@@ -1,7 +1,7 @@
 # Trabajo Práctico N° 1
 ---
-##**Temas:** Git, GitHub, debugging
+## **Temas:** Git, GitHub, debugging
 ---
-###**Alumno:** Fernandez Mauricio Damian  
+### **Alumno:** Fernandez Mauricio Damian  
 
 ---
