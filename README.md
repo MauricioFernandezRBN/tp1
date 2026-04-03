@@ -10,8 +10,5 @@ En este punto se nos pide analizar y corregir los archivos **codigo_misterioso.c
 #### **codigo_misterioso.c**
 Se nos dice de antemano:
 ```
-codigo_misterioso.c: Contiene código ofuscado (con nombres genéricos y
-poco descriptivos). Su tarea es usar el depurador para observar el
-comportamiento de las variables en memoria, deducir qué hace
-lógicamente y renombrar las funciones y variables de forma adecuada.
+codigo_misterioso.c: Contiene código ofuscado (con nombres genéricos ypoco descriptivos). Su tarea es usar el depurador para observar elcomportamiento de las variables en memoria, deducir qué hace lógicamente y renombrar las funciones y variables de forma adecuada.
 ```
