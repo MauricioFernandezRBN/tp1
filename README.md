@@ -62,5 +62,7 @@ int main() {
     return 0;
 }
 
-``
+```
+- Correccion 1:
+  El primer error a corregir es en el nombre de la funcion **f_alpha**, la cual invierte el numero ingresado por parametro.
  
