@@ -14,8 +14,8 @@ En un archivo .gitignore colocaría el nombre de los archivos de la siguiente ma
 
 Ejemplo: _Como ignorar el archivo ignorado.txt_
 
-  -En el repositorio local, crear un archivo llamado _.gitignore_
-  -Dentro del archivo, agrego la linea de texto "*ignorado.txt"
+  -En el repositorio local, crear un archivo llamado _.gitignore_.
+  -Dentro del archivo, agrego la linea de texto "*ignorado.txt".
   -Luego, el archivo será ignorado automaticamente por git.
 
 ---
