@@ -11,5 +11,6 @@ Se debe hacer antes de pasar los archivos al staging area, osea al area de prepa
 -¿Cómo configuraría el archivo .gitignore?
 
 En un archivo .gitignore colocaría el nombre de los archivos de la siguiente manera para que no aparezcan: *archivo
+
 ---
  
