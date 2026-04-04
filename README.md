@@ -15,18 +15,18 @@ Su tarea es usar el depurador para observar elcomportamiento de las variables en
 qué hace lógicamente y renombrar las funciones y variables de forma adecuada.
 ```
 - **_Correccion 1_**:
-  El primer error a corregir es en el nombre de la funcion **"f_alpha"**, la cual invierte el numero ingresado por parametro, renombrandola como **"invertir_numero"**. Ademas de esto se agrego un **print** que muestra por   pantalla el numero invertido (_Linea 11_).
+  El primer error se basa en corregir es en el nombre de la funcion **"f_alpha"**, la cual invierte el numero ingresado por parametro, renombrandola como **"invertir_numero"**. Ademas de esto se agrego un **print** que muestra por pantalla el numero invertido.
   ```
    printf("El numero invertido es: %d\n",*p); 
   ```
 
 - **_Correccion 2_**:
-  La segunda correccion fue realizada a la funcion **"f_beta"**, la cual divide en 2 el numero recibido por parametro, renombrandola como **"calcular_mitad"**. Ademas se le agrego un **print** que mustra por pantalla el calculo (_linea 16_).
+  La segunda correccion fue realizada a la funcion **"f_beta"**, la cual divide en 2 el numero recibido por parametro, renombrandola como **"calcular_mitad"**. Ademas se le agrego un **print** que mustra por pantalla el calculo.
   ```
   printf("La mitad del numero es :%d\n",*p);
   ```
 - **_Correccion 3_**:
-  La tercera correccion se realizo a la funcion **"f_gamma"**, la cual suma los digitos del numero recibido por parametro, renombrandola como **"sumar_digitos"**. Ademas se le agregó un **print** que muestra por pantalla la suma de el numero recibido por parametro.
+  La tercera correccion se realizo a la funcion **"f_gamma"**, la cual suma los digitos del numero recibido por parametro, renombrandola como **"sumar_digitos"**. Ademas se le agregó un **print** que muestra por pantalla la suma del numero recibido por parametro y el numero obtenido de sumar sus digitos.
   ```
       printf("Iniciando depuracion con el valor: %d\n", dato_secreto);
   ```
@@ -38,7 +38,7 @@ específicos que encontró (sintaxis, scanf, lógica de punteros) y explique
 cómo los solucionó.
 ```
 - **_Correccion 1_**:
-  En primer lugar se agregó la librería faltante **stdio.h** al inicio del codigo. Sin esta librería, el codigo seria imposuble de compilar.
+  En primer lugar se agregó la librería faltante **stdio.h** al inicio del codigo. Sin esta librería, el codigo seria imposible de compilar.
   - 
 - **_Correccion 2_**:
   - Se agregó el** * **a las variables **numero**, la cual entra como parametro por referencia en la funcion _duplicar_numero_. Esto con la finalidad de poder modificar el valor de la variable que "entregó" su direccion de memoria a la funcion.
