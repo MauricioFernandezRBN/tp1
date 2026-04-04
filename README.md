@@ -12,5 +12,10 @@ Se debe hacer antes de pasar los archivos al staging area, osea al area de prepa
 
 En un archivo .gitignore colocaría el nombre de los archivos de la siguiente manera para que no aparezcan: *archivo
 
+Ejemplo: _Como ignorar el archivo ignorado.txt_
+  -En el repositorio local, crear un archivo llamado _.gitignore_
+  -Dentro del archivo, agrego la linea de texto "*ignorado.txt"
+  -Luego, el archivo será ignorado automaticamente por git.
+
 ---
  
